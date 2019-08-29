@@ -1,5 +1,3 @@
-# NewUsers (2019)
+# New Users Script (2019)
 
-<ul>
-  <li>New Users Script</li>
-</ul>
+This is a Powershell script that creates a new user in Windows Active Directory from a csv file.
